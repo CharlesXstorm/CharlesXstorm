@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CharlesXstorm
+- 👋 Hi, I’m Charles Ukadike
 - 👀 I’m interested in web development and virtual reality
 - 🌱 I’m currently working on a cool project with React.js
 - 💞️ I’m looking to collaborate on awesome web app projects
