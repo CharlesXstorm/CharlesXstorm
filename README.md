@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Charles Ukadike
 - 👀 I’m interested in web development and virtual reality
 - 🌱 I’m currently working on some cool projects with React.js
-- 💞️ I’m looking to collaborate on awesome web app projects
+- 💞️ I look forward to collaborating on some great web app projects
 - 📫 How to reach me: visit me <a href="https://www.linkedin.com/in/charles-ukadike-17104847/">here</a>
 
 <!---
